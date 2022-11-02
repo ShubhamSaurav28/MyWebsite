@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+nav{
+    padding: 10px;
+}
+header{
+    text-align: center;
+    padding: 15px;  
+}
+img{
+    position:absolute;
+    top:20px;
+    left:20px;
+
+}
+.active{
+    display: inline;
+    padding: 8px;
+}
+a{
+    color:white;
+    text-decoration:none;
+}
+a:hover{
+    color:blue
+}
+p{
+    color: white;
+}
